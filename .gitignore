@@ -1,4 +1,7 @@
+local_config.py
 out
 scratchpad.ipynb
 .DS_Store
 .ipynb_checkpoints
+*.pyc
+__pycache__/
